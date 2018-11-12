@@ -1,0 +1,65 @@
+
+/*HEADER*/
+
+#header span{
+	font-size: 18px;
+	vertical-align: middle;
+
+}
+#header {
+	background-color: #343a40;
+}
+.titulo {
+	color: white;
+}
+.texto {
+	color: 	#FFD200 !important ;
+}
+/*FIN DE HEADER*/
+/*Carousel*/
+#carousel img {
+	height: 100vh;
+	object-fit: cover;
+}
+.fondo {
+	background-color: rgba(0,0,0,0.70	);
+	color: white;
+	height: 100vh;
+}
+.overlay {
+	position: absolute;
+}
+/*Fin de carousel*/
+
+/*Comienzo de Card*/
+.horario {
+	background-color:  #576A7C;
+	color:white;
+}
+.acceso {
+	background-color: ;	
+}
+.primera {
+	color:  #343a40;
+}
+#tarjetas {
+	background-color: #E1EDF8;
+}
+#tarjetas .container {
+	background-color: white;
+}
+#boton {
+	background-color: #E9E9E9;
+}
+/*Fin de Card*/
+
+/*Comienzo de Footer*/
+#footer {
+	background-color: #343a40;
+	color: white;
+}
+#footer a{
+	color: white;
+}
+
+/*Fin de Footer
